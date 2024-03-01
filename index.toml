@@ -192,6 +192,11 @@ hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "492e0b76ce04897236cb1a64197784fd3330589a77949cdc88b62251e8f2dd9c"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "8e619acfb38182c17ab923bc355df215e26d816c2b947f68ac3266b6dfeaa812"
 metafile = true
@@ -317,6 +322,11 @@ hash = "d5d3366ba4378c334be270ef5259916931e9df6e9058b0bba3b4cbef2536e13a"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
 metafile = true
@@ -384,6 +394,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "9ef028d5dd984deac6755e69888feb8215a2ba3e72b8a29217d894c13d606286"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
 
 [[files]]
