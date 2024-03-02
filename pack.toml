@@ -1,12 +1,12 @@
 name = "Hrizolight"
 author = "P5ina"
-version = "2.2.0"
+version = "2.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2a7a5e25b848ff0baffb572e7b9b87d389196de8fcf747450ea452bfc3b4e5bd"
+hash = "9f830ca5ab03b39a77b9149e30e1d5dbd3fe649bbbcba27996d01149132089dc"
 
 [versions]
 forge = "47.2.0"

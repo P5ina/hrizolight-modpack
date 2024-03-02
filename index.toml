@@ -377,11 +377,6 @@ hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
 metafile = true
 
 [[files]]
-file = "mods/oreganized.pw.toml"
-hash = "6cfc5552f3ca60027377df964d479ab9fde3a223582476f0190748d492d60227"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
