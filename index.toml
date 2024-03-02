@@ -14,7 +14,7 @@ hash = "1156f045c7f21eea4d02d50b85dfcf053d14939ed9ae023a25d8fafe752a06b9"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "16b5e7f6620c4983533d68192285edc42ca367ee1600435c08f8e64fde685a03"
+hash = "cd74ba85d7f462e57f6b51c6aa1e5a8aee565702792de7565b5fafd5c859af11"
 
 [[files]]
 file = "config/fancymenu/assets/hrizolight_title.png"
@@ -169,6 +169,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
@@ -384,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/salt.pw.toml"
 hash = "39e7a2e819adeaf247566b62cd71fcd46481fad4a8740cd82e157e7739fd9e9a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "f435fb26b5ce5e660cf709d8415732d19f4fe1aa498edbd55a7ae5af1e8c802f"
 metafile = true
 
 [[files]]
