@@ -1,0 +1,13 @@
+name = "Medieval Seedbags"
+filename = "medieval_seedbags_1.0.0_forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8229fc065a189eeb67de0cea64625d6167700312"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5057492
+project-id = 966163
