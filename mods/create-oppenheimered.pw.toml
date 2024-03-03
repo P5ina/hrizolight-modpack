@@ -1,0 +1,13 @@
+name = "Create: Oppenheimered"
+filename = "create_oppenheimered-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7qOxePw2/versions/LVrDd4RP/create_oppenheimered-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "98a0f718054250765f95b6b730ceaa7385c9b1f9"
+
+[update]
+[update.modrinth]
+mod-id = "7qOxePw2"
+version = "LVrDd4RP"

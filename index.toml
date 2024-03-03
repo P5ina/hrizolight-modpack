@@ -94,7 +94,7 @@ hash = "2951cb48c8ceb7c4ab70652af11efc6f7fdfa65237a718697c4282026cd5fa1e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "2abcbe3fa8063c2dbec57a3f01cd4ce170b5e3c00f68767891785a7768122746"
+hash = "568b941960a9f63066b1cdc6dd6d34b3c13ac8e187edde347c0b1d25379a8ffb"
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
@@ -109,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "8c4e8adf119e1cecee4ad94dec5a636846b73b7a45264e94434e90dff019eaf8"
 metafile = true
 
 [[files]]
@@ -192,6 +197,16 @@ hash = "3054a4c846f399e23a8f06d2460e0c6a9ff32f8c5341e500098b59a4db0c71f2"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "ade07fff998a724f12cae88499f9bf12008b401158a2ad5287819c733e4ff9e4"
+metafile = true
+
+[[files]]
+file = "mods/create-oppenheimered.pw.toml"
+hash = "33070dd87647cc7e24a2c76388919a0f8004365f19ee722a0470316563f81a16"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "d88d1845469a6f316eede279741cdedfc7489b3bef6c66405fff999e70d6c189"
 metafile = true
@@ -257,6 +272,11 @@ hash = "31a36e3d88296c0a225307af2a0f2eb0bfe99e70d747228300718bb77d94e7d4"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "5fa124fb8feb7358a0eda4acf5bed5b2e857570e255548ee00ca8961467b0819"
 metafile = true
@@ -274,16 +294,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
-metafile = true
-
-[[files]]
-file = "mods/galosphere-trimming.pw.toml"
-hash = "01e9e8beb066dd999bb1192cbf673d4b97b9a854c60375d7b3ec1de46f5f0287"
-metafile = true
-
-[[files]]
-file = "mods/galosphere.pw.toml"
-hash = "d0fe7e7d3d01d6cb3c77c7378cde51834ddb3a42da84e84ba2adc2716006db1b"
 metafile = true
 
 [[files]]
@@ -374,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
+metafile = true
+
+[[files]]
+file = "mods/passthrough-signs.pw.toml"
+hash = "19ab5319511438bc91019b7e23d458f0fe8d6d467cfff94653f05a62fbe53f52"
 metafile = true
 
 [[files]]
