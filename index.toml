@@ -97,6 +97,10 @@ file = "config/iceandfire-client.toml"
 hash = "2951cb48c8ceb7c4ab70652af11efc6f7fdfa65237a718697c4282026cd5fa1e"
 
 [[files]]
+file = "config/lunar-common.toml"
+hash = "06519359831e80bc2f2a3cec2086c7112c91e78f1510ac66f29429eed7182903"
+
+[[files]]
 file = "config/passthroughsigns-common.toml"
 hash = "5ef273cf6a6eac59707f848078da0973195ea89d7796fe904d4f544d2789f976"
 
