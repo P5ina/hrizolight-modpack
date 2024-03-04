@@ -106,7 +106,7 @@ hash = "5ef273cf6a6eac59707f848078da0973195ea89d7796fe904d4f544d2789f976"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "568b941960a9f63066b1cdc6dd6d34b3c13ac8e187edde347c0b1d25379a8ffb"
+hash = "2abcbe3fa8063c2dbec57a3f01cd4ce170b5e3c00f68767891785a7768122746"
 
 [[files]]
 file = "mods/aether.pw.toml"
