@@ -168,11 +168,6 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
 metafile = true
@@ -300,11 +295,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
 metafile = true
 
 [[files]]
